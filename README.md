@@ -3,15 +3,10 @@
 # Details:
 
 
-**Programming languages used:**
+**Tools used:**
 
 
 Python
-
-
-**IDLE:**
-
-
 Jupyter Notebook
 
 
