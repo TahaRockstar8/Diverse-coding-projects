@@ -1,11 +1,11 @@
 
 
-
-## Programming languages used:
+#Details:
+##Programming languages used:
 Python
 ##IDLE:
 Jupyter Notebook
-#Packages:
+##Packages:
 Sea Born
 Numpy
 Pandas
