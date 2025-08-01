@@ -1,21 +1,21 @@
 
 
-##Details:
+# Details:
 
 
-Programming languages used:
+**Programming languages used:**
 
 
 Python
 
 
-##IDLE:
+**IDLE:**
 
 
 Jupyter Notebook
 
 
-Packages: 
+**Packages:** 
 
 
 Sea Born
@@ -24,7 +24,7 @@ Pandas
 Matplotlib
 
 
-Note:
+**Note:**
 
 
 Please don't hesitate to point out mistakes
