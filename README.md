@@ -10,7 +10,7 @@ Python
 Jupyter Notebook
 
 
-**Packages:** 
+**(Major) Packages used:** 
 
 
 Sea Born
