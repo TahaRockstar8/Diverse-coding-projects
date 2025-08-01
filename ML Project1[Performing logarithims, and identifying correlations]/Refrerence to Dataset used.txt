@@ -1,1 +1,0 @@
-Vehicle dataset. (2023). [Dataset]. In Kaggle. https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv
