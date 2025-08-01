@@ -7,6 +7,8 @@
 
 
 Python
+
+
 Jupyter Notebook
 
 
@@ -14,8 +16,14 @@ Jupyter Notebook
 
 
 Sea Born
+
+
 Numpy
+
+
 Pandas
+
+
 Matplotlib
 
 
