@@ -26,6 +26,8 @@ Pandas
 
 Matplotlib
 
+Scikit-learn
+
 
 **Note:**
 
